@@ -1,0 +1,3 @@
+git add Mi_Imagen.jpg
+git commit -m ":frame_with_picture: Add: https://administraciondesistemas.com/lenguajes-de-programacion-una-vision-general/"
+git push
